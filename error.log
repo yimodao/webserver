@@ -1,0 +1,352 @@
+2023/07/19 21:45:14 [alert] 3896: pid = 3898 exited on signal 9!
+2023/07/19 21:54:35 [notice] 4112: master process ./nginx 4112 【master进程】启动并开始运行......!
+2023/07/19 21:54:35 [notice] 4113: worker process 4113 【worker进程】启动并开始运行......!
+2023/07/19 21:54:35 [notice] 4114: worker process 4114 【worker进程】启动并开始运行......!
+2023/07/19 21:54:35 [notice] 4115: worker process 4115 【worker进程】启动并开始运行......!
+2023/07/19 21:54:35 [notice] 4116: worker process 4116 【worker进程】启动并开始运行......!
+2023/07/19 21:55:10 [notice] 4112: signal 17 (SIGCHLD) received from 4116
+2023/07/19 21:55:10 [alert] 4112: pid = 4116 exited on signal 9!
+2023/07/23 16:03:15 [stderr] 6603: nginx: CSocekt::Initialize()中bind()失败,i=0. (13: Permission denied) 
+2023/07/23 16:03:15 [stderr] 6603: nginx: 程序退出，再见了!
+2023/07/23 16:12:39 [notice] 6739: master process ./nginx 6739 【master进程】启动并开始运行......!
+2023/07/23 16:12:39 [notice] 6740: worker process 6740 【worker进程】启动并开始运行......!
+2023/07/23 16:12:39 [notice] 6741: worker process 6741 【worker进程】启动并开始运行......!
+2023/07/23 16:12:39 [notice] 6742: worker process 6742 【worker进程】启动并开始运行......!
+2023/07/23 16:12:39 [notice] 6743: worker process 6743 【worker进程】启动并开始运行......!
+2023/07/23 16:23:38 [notice] 6741: signal 1 (SIGHUP) received from 6738
+2023/07/23 16:23:38 [notice] 6740: signal 1 (SIGHUP) received from 6738
+2023/07/23 16:23:38 [notice] 6742: signal 1 (SIGHUP) received from 6738
+2023/07/23 16:23:38 [notice] 6743: signal 15 (SIGTERM) received from 6738
+2023/07/23 16:23:38 [notice] 6739: signal 1 (SIGHUP) received from 6738
+2023/07/23 16:23:38 [notice] 6741: signal 15 (SIGTERM) received from 6738
+2023/07/23 16:23:38 [notice] 6740: signal 15 (SIGTERM) received from 6738
+2023/07/23 16:23:38 [notice] 6742: signal 15 (SIGTERM) received from 6738
+2023/07/23 16:23:38 [notice] 6743: signal 1 (SIGHUP) received from 6738
+2023/07/23 16:23:38 [notice] 6739: signal 15 (SIGTERM) received from 6738
+2023/07/23 16:24:36 [stderr] 6945: nginx: CSocekt::Initialize()中bind()失败,i=0. (13: Permission denied) 
+2023/07/23 16:24:36 [stderr] 6945: nginx: 程序退出，再见了!
+2023/07/23 16:24:50 [notice] 6949: master process ./nginx 6949 【master进程】启动并开始运行......!
+2023/07/23 16:24:50 [notice] 6950: worker process 6950 【worker进程】启动并开始运行......!
+2023/07/23 16:24:50 [notice] 6951: worker process 6951 【worker进程】启动并开始运行......!
+2023/07/23 16:24:50 [notice] 6952: worker process 6952 【worker进程】启动并开始运行......!
+2023/07/23 16:24:50 [notice] 6953: worker process 6953 【worker进程】启动并开始运行......!
+2023/07/23 16:34:29 [notice] 6950: signal 15 (SIGTERM) received from 6948
+2023/07/23 16:34:29 [notice] 6950: signal 1 (SIGHUP) received from 6948
+2023/07/23 16:34:29 [notice] 6951: signal 15 (SIGTERM) received from 6948
+2023/07/23 16:34:29 [notice] 6953: signal 15 (SIGTERM) received from 6948
+2023/07/23 16:34:29 [notice] 6949: signal 15 (SIGTERM) received from 6948
+2023/07/23 16:34:29 [notice] 6951: signal 1 (SIGHUP) received from 6948
+2023/07/23 16:34:29 [notice] 6952: signal 15 (SIGTERM) received from 6948
+2023/07/23 16:34:29 [notice] 6953: signal 1 (SIGHUP) received from 6948
+2023/07/23 16:34:29 [notice] 6949: signal 1 (SIGHUP) received from 6948
+2023/07/23 16:34:29 [notice] 6952: signal 1 (SIGHUP) received from 6948
+2023/07/23 16:35:13 [notice] 7604: master process ./nginx 7604 【master进程】启动并开始运行......!
+2023/07/23 16:35:13 [notice] 7605: worker process 7605 【worker进程】启动并开始运行......!
+2023/07/23 16:35:13 [notice] 7606: worker process 7606 【worker进程】启动并开始运行......!
+2023/07/23 16:35:13 [notice] 7607: worker process 7607 【worker进程】启动并开始运行......!
+2023/07/23 16:35:13 [notice] 7608: worker process 7608 【worker进程】启动并开始运行......!
+2023/07/23 16:35:29 [stderr] 7608: nginx: 连入一个新客户端
+
+2023/07/23 16:36:39 [notice] 7607: signal 1 (SIGHUP) received from 7603
+2023/07/23 16:36:39 [notice] 7606: signal 1 (SIGHUP) received from 7603
+2023/07/23 16:36:39 [notice] 7608: signal 15 (SIGTERM) received from 7603
+2023/07/23 16:36:39 [notice] 7605: signal 1 (SIGHUP) received from 7603
+2023/07/23 16:36:39 [notice] 7607: signal 15 (SIGTERM) received from 7603
+2023/07/23 16:36:39 [notice] 7606: signal 15 (SIGTERM) received from 7603
+2023/07/23 16:36:39 [notice] 7608: signal 1 (SIGHUP) received from 7603
+2023/07/23 16:36:39 [notice] 7605: signal 15 (SIGTERM) received from 7603
+2023/07/23 16:36:39 [notice] 7604: signal 15 (SIGTERM) received from 7603
+2023/07/23 16:36:39 [notice] 7604: signal 1 (SIGHUP) received from 7603
+2023/07/23 21:35:10 [notice] 2848: master process ./nginx 2848 【master进程】启动并开始运行......!
+2023/07/23 21:35:10 [notice] 2849: worker process 2849 【worker进程】启动并开始运行......!
+2023/07/23 21:35:10 [notice] 2850: worker process 2850 【worker进程】启动并开始运行......!
+2023/07/23 21:35:10 [notice] 2851: worker process 2851 【worker进程】启动并开始运行......!
+2023/07/23 21:35:10 [notice] 2852: worker process 2852 【worker进程】启动并开始运行......!
+2023/07/23 21:35:39 [stderr] 2851: nginx: 连入一个新客户端
+
+2023/07/23 21:37:06 [stderr] 2851: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/23 21:37:18 [stderr] 2851: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/23 21:41:53 [stderr] 2851: nginx: 111111111111111111111111111111.
+2023/07/23 21:51:25 [notice] 2851: signal 1 (SIGHUP) received from 2847
+2023/07/23 21:51:25 [notice] 2849: signal 1 (SIGHUP) received from 2847
+2023/07/23 21:51:25 [notice] 2850: signal 1 (SIGHUP) received from 2847
+2023/07/23 21:51:25 [notice] 2852: signal 15 (SIGTERM) received from 2847
+2023/07/23 21:51:25 [notice] 2851: signal 15 (SIGTERM) received from 2847
+2023/07/23 21:51:25 [notice] 2848: signal 15 (SIGTERM) received from 2847
+2023/07/23 21:51:25 [notice] 2849: signal 15 (SIGTERM) received from 2847
+2023/07/23 21:51:25 [notice] 2850: signal 15 (SIGTERM) received from 2847
+2023/07/23 21:51:25 [notice] 2852: signal 1 (SIGHUP) received from 2847
+2023/07/23 21:51:25 [notice] 2848: signal 1 (SIGHUP) received from 2847
+2023/07/23 21:52:06 [notice] 3519: master process ./nginx 3519 【master进程】启动并开始运行......!
+2023/07/23 21:52:06 [notice] 3522: worker process 3522 【worker进程】启动并开始运行......!
+2023/07/23 21:52:06 [notice] 3520: worker process 3520 【worker进程】启动并开始运行......!
+2023/07/23 21:52:06 [notice] 3521: worker process 3521 【worker进程】启动并开始运行......!
+2023/07/23 21:52:06 [notice] 3523: worker process 3523 【worker进程】启动并开始运行......!
+2023/07/23 21:52:28 [stderr] 3522: nginx: 连入一个新客户端
+
+2023/07/23 21:52:40 [stderr] 3522: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/23 21:52:49 [stderr] 3522: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/23 21:52:53 [stderr] 3522: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/23 21:52:53 [stderr] 3522: nginx: 111111111111111111111111111111.
+2023/07/23 21:59:01 [stderr] 3521: nginx: 连入一个新客户端
+
+2023/07/23 21:59:08 [stderr] 3521: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/23 22:00:38 [stderr] 3521: nginx: 连入一个新客户端
+
+2023/07/23 22:00:50 [stderr] 3521: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/23 22:01:08 [stderr] 3521: nginx: 111111111111111111111111111111.
+2023/07/23 22:02:03 [notice] 3522: signal 1 (SIGHUP) received from 3518
+2023/07/23 22:02:03 [notice] 3521: signal 1 (SIGHUP) received from 3518
+2023/07/23 22:02:03 [notice] 3520: signal 1 (SIGHUP) received from 3518
+2023/07/23 22:02:03 [notice] 3523: signal 15 (SIGTERM) received from 3518
+2023/07/23 22:02:03 [notice] 3519: signal 15 (SIGTERM) received from 3518
+2023/07/23 22:02:03 [notice] 3522: signal 15 (SIGTERM) received from 3518
+2023/07/23 22:02:03 [notice] 3521: signal 15 (SIGTERM) received from 3518
+2023/07/23 22:02:03 [notice] 3520: signal 15 (SIGTERM) received from 3518
+2023/07/23 22:02:03 [notice] 3523: signal 1 (SIGHUP) received from 3518
+2023/07/23 22:02:03 [notice] 3519: signal 1 (SIGHUP) received from 3518
+2023/07/25 21:46:18 [notice] 3546: master process ./nginx 3546 【master进程】启动并开始运行......!
+2023/07/25 21:46:18 [notice] 3547: worker process 3547 【worker进程】启动并开始运行......!
+2023/07/25 21:46:18 [notice] 3548: worker process 3548 【worker进程】启动并开始运行......!
+2023/07/25 21:46:18 [notice] 3549: worker process 3549 【worker进程】启动并开始运行......!
+2023/07/25 21:46:18 [notice] 3550: worker process 3550 【worker进程】启动并开始运行......!
+2023/07/25 21:46:25 [stderr] 3550: nginx: 连入一个新客户端
+
+2023/07/25 21:46:27 [stderr] 3550: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/25 21:46:51 [stderr] 3550: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/25 21:51:19 [stderr] 3550: nginx: 客户端非正常断开!
+2023/07/25 21:53:18 [stderr] 3549: nginx: 连入一个新客户端
+
+2023/07/25 21:53:28 [stderr] 3549: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/25 21:55:28 [stderr] 3549: nginx: 连接被客户端正常关闭[四次挥手关闭]!
+2023/07/25 21:55:28 [stderr] 3549: nginx: 客户端非正常断开! (11: Resource temporarily unavailable) 
+2023/07/25 21:55:43 [notice] 3549: signal 1 (SIGHUP) received from 3545
+2023/07/25 21:55:43 [notice] 3550: signal 15 (SIGTERM) received from 3545
+2023/07/25 21:55:43 [notice] 3547: signal 15 (SIGTERM) received from 3545
+2023/07/25 21:55:43 [notice] 3546: signal 15 (SIGTERM) received from 3545
+2023/07/25 21:55:43 [notice] 3549: signal 15 (SIGTERM) received from 3545
+2023/07/25 21:55:43 [notice] 3548: signal 15 (SIGTERM) received from 3545
+2023/07/25 21:55:43 [notice] 3550: signal 1 (SIGHUP) received from 3545
+2023/07/25 21:55:43 [notice] 3547: signal 1 (SIGHUP) received from 3545
+2023/07/25 21:55:43 [notice] 3546: signal 1 (SIGHUP) received from 3545
+2023/07/25 21:55:43 [notice] 3548: signal 1 (SIGHUP) received from 3545
+2023/07/25 21:59:45 [notice] 3874: master process ./nginx 3874 【master进程】启动并开始运行......!
+2023/07/25 21:59:45 [notice] 3875: worker process 3875 【worker进程】启动并开始运行......!
+2023/07/25 21:59:45 [notice] 3876: worker process 3876 【worker进程】启动并开始运行......!
+2023/07/25 21:59:45 [notice] 3877: worker process 3877 【worker进程】启动并开始运行......!
+2023/07/25 21:59:45 [notice] 3878: worker process 3878 【worker进程】启动并开始运行......!
+2023/07/25 21:59:57 [stderr] 3876: nginx: 连入一个新客户端
+
+2023/07/25 22:00:06 [stderr] 3876: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/25 22:00:07 [stderr] 3876: nginx: 连接被客户端正常关闭[四次挥手关闭]!
+2023/07/25 22:01:14 [stderr] 3876: nginx: 连入一个新客户端
+
+2023/07/25 22:01:19 [stderr] 3876: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/25 22:01:19 [stderr] 3876: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/25 22:01:20 [stderr] 3876: nginx: 连接被客户端正常关闭[四次挥手关闭]!
+2023/07/25 22:01:52 [stderr] 3877: nginx: 连入一个新客户端
+
+2023/07/25 22:01:59 [stderr] 3877: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/25 22:01:59 [stderr] 3877: nginx: 非常好，收到了一个完整的数据包（包头+包体）！
+2023/07/25 22:02:06 [stderr] 3877: nginx: 连接被客户端非正常关闭!
+2023/07/25 22:02:06 [stderr] 3877: nginx: 客户端非正常断开! (104: Connection reset by peer) 
+2023/07/25 22:03:32 [notice] 3877: signal 15 (SIGTERM) received from 3873
+2023/07/25 22:03:32 [notice] 3876: signal 15 (SIGTERM) received from 3873
+2023/07/25 22:03:32 [notice] 3875: signal 15 (SIGTERM) received from 3873
+2023/07/25 22:03:32 [notice] 3877: signal 1 (SIGHUP) received from 3873
+2023/07/25 22:03:32 [notice] 3875: signal 1 (SIGHUP) received from 3873
+2023/07/25 22:03:32 [notice] 3876: signal 1 (SIGHUP) received from 3873
+2023/07/25 22:03:32 [notice] 3878: signal 15 (SIGTERM) received from 3873
+2023/07/25 22:03:32 [notice] 3874: signal 15 (SIGTERM) received from 3873
+2023/07/25 22:03:32 [notice] 3878: signal 1 (SIGHUP) received from 3873
+2023/07/25 22:03:32 [notice] 3874: signal 1 (SIGHUP) received from 3873
+2023/07/27 09:59:00 [notice] 20839: master process ./nginx 20839 【master进程】启动并开始运行......!
+2023/07/27 09:59:01 [notice] 20841: worker process 20841 【worker进程】启动并开始运行......!
+2023/07/27 09:59:01 [notice] 20842: worker process 20842 【worker进程】启动并开始运行......!
+2023/07/27 09:59:01 [notice] 20843: worker process 20843 【worker进程】启动并开始运行......!
+2023/07/27 09:59:01 [notice] 20840: worker process 20840 【worker进程】启动并开始运行......!
+2023/07/27 10:00:12 [stderr] 20843: nginx: 连入一个新客户端
+
+2023/07/27 10:00:17 [stderr] 20843: nginx: 服务器处理一条消息!
+2023/07/27 10:00:17 [stderr] 20843: nginx: 服务器处理一条消息!
+2023/07/27 10:00:29 [stderr] 20843: nginx: 连接被客户端非正常关闭!
+2023/07/27 10:00:29 [stderr] 20843: nginx: 客户端非正常断开! (104: Connection reset by peer) 
+2023/07/27 10:03:03 [notice] 20843: signal 1 (SIGHUP) received from 20838
+2023/07/27 10:03:03 [notice] 20842: signal 1 (SIGHUP) received from 20838
+2023/07/27 10:03:03 [notice] 20841: signal 1 (SIGHUP) received from 20838
+2023/07/27 10:03:03 [notice] 20839: signal 1 (SIGHUP) received from 20838
+2023/07/27 10:03:03 [notice] 20843: signal 15 (SIGTERM) received from 20838
+2023/07/27 10:03:03 [notice] 20842: signal 15 (SIGTERM) received from 20838
+2023/07/27 10:03:03 [notice] 20841: signal 15 (SIGTERM) received from 20838
+2023/07/27 10:03:03 [notice] 20839: signal 15 (SIGTERM) received from 20838
+2023/08/01 09:49:37 [notice] 4537: master process ./nginx 4537 【master进程】启动并开始运行......!
+2023/08/01 09:49:38 [notice] 4539: worker process 4539 【worker进程】启动并开始运行......!
+2023/08/01 09:49:38 [notice] 4541: worker process 4541 【worker进程】启动并开始运行......!
+2023/08/01 09:49:38 [notice] 4540: worker process 4540 【worker进程】启动并开始运行......!
+2023/08/01 09:49:38 [notice] 4538: worker process 4538 【worker进程】启动并开始运行......!
+2023/08/01 09:50:40 [stderr] 4541: nginx: 连入一个新客户端
+
+2023/08/01 09:50:47 [stderr] 4541: nginx: 服务器处理一条消息!
+2023/08/01 09:50:47 [stderr] 4541: nginx: 即将发送数据108。
+2023/08/01 09:50:47 [stderr] 4541: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 09:53:08 [stderr] 4541: nginx: 服务器处理一条消息!
+2023/08/01 09:53:08 [stderr] 4541: nginx: 即将发送数据108。
+2023/08/01 09:53:08 [stderr] 4541: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 09:54:22 [stderr] 4541: nginx: 连接被客户端非正常关闭!
+2023/08/01 09:54:22 [stderr] 4541: nginx: CSocekt::ServerRecyConnectionThread()中到释放时间却发现p_Conn.iThrowsendCount!=0，这个不该发生
+2023/08/01 09:56:56 [notice] 4537: signal 15 (SIGTERM) received from 4536
+2023/08/01 09:56:56 [notice] 4539: signal 15 (SIGTERM) received from 4536
+2023/08/01 09:56:56 [notice] 4538: signal 15 (SIGTERM) received from 4536
+2023/08/01 09:56:56 [notice] 4539: signal 1 (SIGHUP) received from 4536
+2023/08/01 09:56:56 [notice] 4540: signal 15 (SIGTERM) received from 4536
+2023/08/01 09:56:56 [notice] 4538: signal 1 (SIGHUP) received from 4536
+2023/08/01 09:56:56 [notice] 4540: signal 1 (SIGHUP) received from 4536
+2023/08/01 09:56:56 [notice] 4537: signal 1 (SIGHUP) received from 4536
+2023/08/01 09:56:56 [notice] 4541: signal 15 (SIGTERM) received from 4536
+2023/08/01 09:56:56 [notice] 4541: signal 1 (SIGHUP) received from 4536
+2023/08/01 13:38:19 [notice] 3436: master process ./nginx 3436 【master进程】启动并开始运行......!
+2023/08/01 13:38:20 [notice] 3438: worker process 3438 【worker进程】启动并开始运行......!
+2023/08/01 13:38:20 [notice] 3441: worker process 3441 【worker进程】启动并开始运行......!
+2023/08/01 13:38:20 [notice] 3439: worker process 3439 【worker进程】启动并开始运行......!
+2023/08/01 13:38:20 [notice] 3437: worker process 3437 【worker进程】启动并开始运行......!
+2023/08/01 13:38:31 [stderr] 3441: nginx: 连入一个新客户端
+
+2023/08/01 13:38:34 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:38:34 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:38:34 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:38:41 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:38:41 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:38:41 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:38:46 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:38:46 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:38:46 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:38:48 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:38:48 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:38:48 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:38:53 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:38:53 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:38:53 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:38:57 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:38:57 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:38:57 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:38:58 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:38:58 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:38:58 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:39:00 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:39:00 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:39:00 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:39:02 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:39:02 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:39:02 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:39:03 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:39:03 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:39:03 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:39:05 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:39:05 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:39:05 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:39:07 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:39:07 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:39:07 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:39:10 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:39:10 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:39:10 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:39:11 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:39:11 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:39:11 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:39:13 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:39:13 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:39:13 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:39:15 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:39:15 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:39:15 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:39:16 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:39:16 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:39:16 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:39:18 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:39:18 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:39:18 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:39:20 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:39:20 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:39:20 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:39:22 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:39:22 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:39:22 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据没发送完毕【发送缓冲区满】，整个要发送54256，实际发送了10752。
+2023/08/01 13:39:39 [stderr] 3441: nginx: CSocekt::ngx_write_request_handler()中数据发送完毕，很好。
+2023/08/01 13:40:17 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:17 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:17 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:20 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:20 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:20 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:22 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:22 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:22 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:24 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:24 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:24 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:25 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:25 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:25 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:28 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:28 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:28 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:29 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:29 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:29 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:31 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:31 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:31 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:32 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:32 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:32 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:33 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:33 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:33 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:35 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:35 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:35 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:36 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:36 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:36 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:38 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:38 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:38 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:42 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:42 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:42 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:44 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:44 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:44 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:48 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:48 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:48 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:40:49 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:40:49 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:40:49 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据发送完毕，很好。
+2023/08/01 13:41:00 [stderr] 3441: nginx: 服务器处理一条消息!
+2023/08/01 13:41:00 [stderr] 3441: nginx: 即将发送数据65008。
+2023/08/01 13:41:00 [stderr] 3441: nginx: CSocekt::ServerSendQueueThread()中数据没发送完毕【发送缓冲区满】，整个要发送44832，实际发送了20176。
+2023/08/01 13:41:46 [stderr] 3441: nginx: CSocekt::ngx_write_request_handler()中数据发送完毕，很好。
+2023/08/01 13:41:55 [stderr] 3441: nginx: 连接被客户端非正常关闭!
+2023/08/01 13:41:55 [stderr] 3441: nginx: CSocekt::ServerRecyConnectionThread()中到释放时间却发现p_Conn.iThrowsendCount!=0，这个不该发生
+2023/08/01 13:47:01 [notice] 3441: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:47:01 [notice] 3438: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:47:01 [notice] 3436: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:47:01 [notice] 3441: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:47:01 [notice] 3438: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:47:01 [notice] 3439: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:47:01 [notice] 3441: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:47:01 [notice] 3439: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:47:01 [notice] 3437: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:47:01 [notice] 3438: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:47:02 [notice] 3436: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:48:05 [notice] 3436: signal 15 (SIGTERM) received from 3435
+2023/08/01 13:48:05 [notice] 3436: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:48:05 [notice] 3441: signal 15 (SIGTERM) received from 3435
+2023/08/01 13:48:05 [notice] 3441: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:48:05 [notice] 3437: signal 15 (SIGTERM) received from 3435
+2023/08/01 13:48:05 [notice] 3437: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:48:05 [notice] 3439: signal 15 (SIGTERM) received from 3435
+2023/08/01 13:48:05 [notice] 3438: signal 15 (SIGTERM) received from 3435
+2023/08/01 13:48:05 [notice] 3438: signal 1 (SIGHUP) received from 3435
+2023/08/01 13:48:05 [notice] 3439: signal 1 (SIGHUP) received from 3435
